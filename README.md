@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatawesomekk&label=Profile%20views&color=0e75b6&style=flat" alt="thatawesomekk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thatawesomekk" alt="thatawesomekk" /></a> </p>
-
 - 🔭 I’m currently working on [Event Management](https://event-management-blue.vercel.app/)
 
 - 🌱 I’m currently learning **T3 Stack**
