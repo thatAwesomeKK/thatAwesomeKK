@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ketan Koli</h1>
-<h3 align="center">I focus on making cool projects and figuring out what & how the big tech companies run their softwares, what logic and mystery do they hold & would like to unravel that mystery 😁. Some More Points about me (p.s. They are true):- ✔ Love Creating Big Tech Companie's Clones. ✔ Youtube's API fascinates me the most. ✔ NextJS is my New Love. ✔ Tailwind is my New Drug. ✔ Video Editing is my Affair ✔ Can't go back to my ex HTML/CSS after Learning MERN Stack ✔ React Native is my New Goal!</h3>
+<h3 align="center">I focus on making cool projects and figuring out what & how the big tech companies run their softwares, what logic and mystery do they hold & would like to unravel that mystery 😁.\n Some More Points about me (p.s. They are true):-\n ✔ Love Creating Big Tech Companie's Clones.\n ✔ Youtube's API fascinates me the most.\n ✔ NextJS is my New Love.\n ✔ Tailwind is my New Drug.\n ✔ Video Editing is my Affair\n ✔ Can't go back to my ex HTML/CSS after Learning MERN Stack\n ✔ React Native is my New Goal!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatawesomekk&label=Profile%20views&color=0e75b6&style=flat" alt="thatawesomekk" /> </p>
 
